@@ -2,3 +2,6 @@
 print("Hello World")
 print("Hello world from jenkins")
 print("Hello from cicd pipline")
+
+
+print("This is simple app to test cicd pipline")
